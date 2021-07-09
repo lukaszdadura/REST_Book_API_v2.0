@@ -1,5 +1,8 @@
 # Default ignored files
 /idea/
+.idea/**/jarRepositories
+.idea/**/misc
+.idea/**/vcs
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
